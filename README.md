@@ -47,11 +47,11 @@ UDP泛洪攻击是一种破坏性极高的网络攻击手段，仅应在授权�
 
 **GO版本帮助文档**
 
-![image](https://github.com/aiici/attack/blob/main/images/image-20241029104445356.png)
+![image](https://github.com/aiici/ddos/blob/main/images/image-20241029104445356.png)
 
 **Python版本帮助文档**
 
-![image](https://github.com/aiici/attack/blob/main/images/image-20241029104528163.png)
+![image](https://github.com/aiici/ddos/blob/main/images/image-20241029104528163.png)
 
 ### 其他DDOS攻击手段
 
